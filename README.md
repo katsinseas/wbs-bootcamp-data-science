@@ -1,15 +1,15 @@
-# the first commit
+# First day on GitHub
 
-# This is just an example 
+# This is just an example
 
-Actually, this is really important! 
+I changed this three times, because it's really important.
 
-## This is another example H2
+# Don't forget list one and list two 
 
-### This is the last example H3
+List one: status and commit 
+List two: description and push
 
-Item 1 in the list 
-Item 2 in the list 
+# Review sql 
 
 ```sql 
 
