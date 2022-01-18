@@ -1,20 +1,6 @@
-# First day on GitHub
+# Pandas
 
-# This is just an example
+This is a repository with a handful of challenges to solve by using Pandas.
 
-I changed this three times, because it's really important.
-
-# Don't forget list one and list two 
-
-List one: status and commit 
-List two: description and push
-
-# Review sql 
-
-```sql 
-
-SELECT * FROM table 
-
-```
 
 
